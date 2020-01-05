@@ -1,0 +1,120 @@
+### YamlMime:CertificationHome
+
+title: Microsoft Certificeringen
+summary: Behaal certificeringen die laten zien dat je gelijke tred houdt met de technische roles en eisen van vandaag de dag. Selecteer een job role om de certificerings paths te ontdekken.
+
+roles:
+  - name: developer
+    summary: Developers ontwerpen, programmeren, testen en onderhouden cloud-oplossingen.
+    url: /learn/certifications/roles/developer
+  - name: administrator
+    summary: Beheerders implementeren, monitoren en onderhouden Microsoft-oplossingen.
+    url: /learn/certifications/roles/administrator
+  - name: solution-architect
+    summary: Solutions Architecten hebben expertise op het gebied van computing, netwerk, opslag, beveiliging.
+    url: /learn/certifications/roles/solutions-architect
+  - name: data-engineer
+    summary: Data Engineers ontwerpen en implementeren het beheer, de monitoring, de beveiliging en de privacy van gegevens met behulp van de volledige stapel dataservices.
+    url: /learn/certifications/roles/data-engineer
+  - name: data-scientist
+    summary: Data Scientist passen machine learning technieken toe voor het trainen, evalueren en implementeren van modellen die bedrijfsmatige problemen oplossen.
+    url: /learn/certifications/roles/data-scientist
+  - name: ai-engineer
+    summary: AI engineers gebruiken Cognitive Services, Machine Learning en Knowledge Mining om Microsoft AI-oplossingen te ontwerpen en te implementeren.
+    url: /learn/certifications/roles/ai-engineer
+  - name: devops-engineer
+    summary: DevOps Engineers combineren mensen, processen en technologieën om voortdurend waardevolle producten en diensten te leveren die voldoen aan de behoeften van de eindgebruiker en de bedrijfsdoelstellingen.
+    url: /learn/certifications/roles/devops-engineer
+  - name: security-engineer
+    summary: Security Engineers implementeren veiligheidscontroles en bedreigingsbescherming, beheren de identiteit en toegang en beschermen data, toepassingen en netwerken.
+    url: /learn/certifications/roles/security-engineer
+  - name: functional-consultant
+    summary: Functionele Consultants maken gebruik van Microsoft Dynamics 365 om te anticiperen en te plannen voor de behoeften van de klant.
+    url: /learn/certifications/roles/functional-consultant
+
+
+certificationsSection:
+  title: Word Microsoft-gecertificeerd
+  summary: "Microsoft heeft certificerings paths voor vele technische job roles. Elk van deze certificeringen bestaat uit het afleggen van een reeks examens om de certificering te behalen."
+  tiers:
+    - title: Fundamentals certificeringen
+      summary: Aanbevolen instap. Ideaal voor mensen die net beginnen in de technologie of denken aan een carrièreverandering.
+      certifications:
+        - uid: certification.azure-fundamentals
+        - uid: certification.microsoft-365-fundamentals
+        - uid: certification.power-platform-fundamentals
+      browseLink:
+        text: Browse fundamental certificeringen
+        url: /learn/certifications/browse?levels=beginner&term=fundamentals 
+    - title: Rolgebaseerde certificeringen
+      summary: Kies een role-based certificering en begin met het leren van waardevolle job role skills.
+      certifications:
+        - uid: certification.azure-developer
+        - uid: certification.power-apps-and-d365-developer-associate
+        - uid: certification.d365-functional-consultant-sales
+      browseLink:
+        text: Browse role-based certificeringen
+        url: /learn/certifications/browse?resource_type=certification
+    - title: Toegevoegde certificeringen
+      summary: Verken specialty, Microsoft gecertificeerd docent en de technische certificeringen van Microsoft Office.
+      certifications:
+        - uid: certification.azure-for-sap-workloads-specialty
+        - uid: certification.microsoft-certified-educator
+        - uid: certification.mos-word-expert-2019
+      browseLink:
+        text: Browse toegevoegde certificeringen
+        url: /learn/certifications/browse?resource_type=certification
+
+trainingSection:
+  title: Hoe zich voor te bereiden op de certificering
+  summary: Microsoft begrijpt dat iedereen verschillende leervoorkeuren heeft, dus we bieden certificeringen en trainingsmogelijkheden tijdens je gehele certificeringsreis.
+  items:
+  - image:
+      alt: Vrouw die naar een Microsoft Surface kijkt
+      src: /learn/certifications/images/image-working-lady-laptop.jpg
+    title: Gratis learning paths ter voorbereiding
+    summary: Met Microsoft Learn kan iedereen de kernconcepten in zijn of haar tempo en op zijn of haar schema onder de knie krijgen. Of het nu gaat om een enkele module om een kerntaak te leren kennen of om een onderwerp volledig te verkennen via een verzameling gerelateerde modules.
+    browseLinks:
+    - text: Browse alle learning paths
+      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+  - image:
+      alt: Man die zich voorstelt aan vier mensen die rond een tafel zitten
+      src: /learn/certifications/images/image-working-group.jpg
+    title: Bereid je voor met een training onder leiding van een docent
+    summary: Microsoft Learning Partners bieden een breed scala aan oplossingen voor jouw leerbehoeften, zodat je jouw trainingsdoelen kunt bereiken. Microsoft Gecertificeerde Docenten hebben een strenge opleiding gevolgd en voldoen aan strenge technische certificeringseisen.
+    browseLinks:
+    - text: Browse alle trainingen onder leiding van een docent
+      url: /learn/certifications/courses/browse/
+
+resourcesSection:
+  title: Learning resources
+  items:
+    - title: Vind een Microsoft Learning Partner
+      summary: Ons wereldwijde partnernetwerk levert flexibele, op oplossingen gebaseerde, op maat gemaakte trainingen in Microsoft-technologieën.
+      url: https://www.microsoft.com/en-us/learning/partners.aspx
+    - title: Ondersteuning voor certificeringen en examens
+      summary: Krijg hulp via ondersteuningsforums Een forum moderator reageert binnen een werkdag, maandag-vrijdag.
+      url: /learn/certifications/help
+    - title: Browse alle certificeringen en examens
+      summary: Verken alle certificeringen om je carrière naar een hoger niveau te tillen.
+      url: /learn/certifications/browse
+
+statisticsSection:
+  title: Waarom zou je gecertificeerd zijn
+  summary: Certificeringen geven je een professionele voorsprong met bewijs van door de industrie erkende role-based skills.
+  video:
+    pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
+    iframeTitle: Microsoft Certificeringen
+    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    title: Voordelen van Microsoft Certificering
+    summary: Bij het behalen van een certificering, meldde 23% van de Microsoft gecertificeerde technologen een salarisverhoging tot maar liefst 20% te hebben gekregen. Bovendien worden gecertificeerde medewerkers vaak belast met het toezicht op hun collega’s waardoor ze sneller promotie kunnen maken. 2017 Pearson VUE Value of Certification white paper.
+  items:
+    - title: 38%
+      summary: 'samenvatting: van de IT-posities zal in 2021 de cloud gerelateerd zijn.'
+      note: IDC/Microsoft, Cloud Skills and Organizational Influence* How Cloud Skills Are Accelerating the Careers of IT Professional, mei 2017
+    - title: 35%
+      summary: van de IT-professionals zeggen dat ze tijdens de cloud-implementatie meer invloed hebben dan hun collega’s tijdens de implementatie van andere technologieën.
+      note: IDC/Microsoft, Cloud Skills and Organizational Influence* How Cloud Skills Are Accelerating the Careers of IT Professional, mei 2017
+    - title: 36.9%
+      summary: van de IT-professionals beweerde dat certificering hen hielp om complexe taken met meer vertrouwen uit te voeren.
+      note: Pearson VUE, The Value of IT Certification Survey, januari 2017
