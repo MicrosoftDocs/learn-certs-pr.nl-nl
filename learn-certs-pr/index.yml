@@ -91,7 +91,7 @@ resourcesSection:
   items:
     - title: Vind een Microsoft Learning Partner
       summary: Ons wereldwijde partnernetwerk levert flexibele, op oplossingen gebaseerde, op maat gemaakte trainingen in Microsoft-technologieën.
-      url: https://www.microsoft.com/en-us/learning/partners.aspx
+      url: https://www.microsoft.com/learning/partners.aspx
     - title: Ondersteuning voor certificeringen en examens
       summary: Krijg hulp via ondersteuningsforums Een forum moderator reageert binnen een werkdag, maandag-vrijdag.
       url: /learn/certifications/help
@@ -105,7 +105,7 @@ statisticsSection:
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
     iframeTitle: Microsoft Certificeringen
-    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: Voordelen van Microsoft Certificering
     summary: Bij het behalen van een certificering, meldde 23% van de Microsoft gecertificeerde technologen een salarisverhoging tot maar liefst 20% te hebben gekregen. Bovendien worden gecertificeerde medewerkers vaak belast met het toezicht op hun collega’s waardoor ze sneller promotie kunnen maken. 2017 Pearson VUE Value of Certification white paper.
   items:
