@@ -1,6 +1,6 @@
 ### YamlMime:CertificationHome
 
-title: Microsoft Certificeringen
+title: Microsoft Certifications
 summary: Behaal certificeringen die laten zien dat je gelijke tred houdt met de technische roles en eisen van vandaag de dag. Selecteer een job role om de certificerings paths te ontdekken.
 
 roles:
@@ -34,7 +34,7 @@ roles:
 
 
 certificationsSection:
-  title: Word Microsoft-gecertificeerd
+  title: Word Microsoft Certified
   summary: "Microsoft heeft certificerings paths voor vele technische job roles. Elk van deze certificeringen bestaat uit het afleggen van een reeks examens om de certificering te behalen."
   tiers:
     - title: Fundamentals certificeringen
@@ -56,7 +56,7 @@ certificationsSection:
         text: Browse role-based certificeringen
         url: /learn/certifications/browse?resource_type=certification
     - title: Toegevoegde certificeringen
-      summary: Verken specialty, Microsoft gecertificeerd docent en de technische certificeringen van Microsoft Office.
+      summary: Verken specialty, Microsoft Certified Educator en de technische certificeringen van Microsoft Office.
       certifications:
         - uid: certification.azure-for-sap-workloads-specialty
         - uid: certification.microsoft-certified-educator
@@ -81,7 +81,7 @@ trainingSection:
       alt: Man die zich voorstelt aan vier mensen die rond een tafel zitten
       src: /learn/certifications/images/image-working-group.jpg
     title: Bereid je voor met een training onder leiding van een docent
-    summary: Microsoft Learning Partners bieden een breed scala aan oplossingen voor jouw leerbehoeften, zodat je jouw trainingsdoelen kunt bereiken. Microsoft Gecertificeerde Docenten hebben een strenge opleiding gevolgd en voldoen aan strenge technische certificeringseisen.
+    summary: Microsoft Learning Partners bieden een breed scala aan oplossingen voor jouw leerbehoeften, zodat je jouw trainingsdoelen kunt bereiken. Microsoft Certified Trainers hebben een strenge opleiding gevolgd en voldoen aan strenge technische certificeringseisen.
     browseLinks:
     - text: Browse alle trainingen onder leiding van een docent
       url: /learn/certifications/courses/browse/
@@ -91,7 +91,7 @@ resourcesSection:
   items:
     - title: Vind een Microsoft Learning Partner
       summary: Ons wereldwijde partnernetwerk levert flexibele, op oplossingen gebaseerde, op maat gemaakte trainingen in Microsoft-technologieën.
-      url: https://www.microsoft.com/learning/partners.aspx
+      url: https://www.microsoft.com/en-us/learning/partners.aspx
     - title: Ondersteuning voor certificeringen en examens
       summary: Krijg hulp via ondersteuningsforums Een forum moderator reageert binnen een werkdag, maandag-vrijdag.
       url: /learn/certifications/help
@@ -104,9 +104,9 @@ statisticsSection:
   summary: Certificeringen geven je een professionele voorsprong met bewijs van door de industrie erkende role-based skills.
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
-    iframeTitle: Microsoft Certificeringen
-    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
-    title: Voordelen van Microsoft Certificering
+    iframeTitle: Microsoft Certifications
+    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    title: Voordelen van Microsoft Certifications
     summary: Bij het behalen van een certificering, meldde 23% van de Microsoft gecertificeerde technologen een salarisverhoging tot maar liefst 20% te hebben gekregen. Bovendien worden gecertificeerde medewerkers vaak belast met het toezicht op hun collega’s waardoor ze sneller promotie kunnen maken. 2017 Pearson VUE Value of Certification white paper.
   items:
     - title: 38%
